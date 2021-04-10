@@ -19,8 +19,7 @@ Este desafio consiste no desenvolvimento da interface de uma landing page e uma 
 - Landing Page: https://www.figma.com/file/vxbTpBRViZn0dY5EnjlVMZ/Eduick?node-id=102%3A793
 - Dashboard: https://www.figma.com/file/vxbTpBRViZn0dY5EnjlVMZ/Eduick?node-id=14%3A295
 
-
-Deverá ser utilizado AngularJS para desenvolvimento da landing e dashboard;
+Deverá ser utilizado ReactJS para desenvolvimento da landing e dashboard;
 
 ## 🔖 Layout
 
@@ -42,11 +41,9 @@ Você pode visualizar o layout do projeto através desse link. Lembrando que voc
 - Implementar scroll infinito ou paginação;
 - Na versão mobile implementar ação de dropdown (onde aparece change to teacher mode);
 
-
 ## Testes
 
 Será um bônus implementar algum tipo de teste (unitário, integração, e2e...)
-
 
 ## Entrega
 
@@ -62,7 +59,6 @@ Ao submeter o desafio:
 - Utilizar Next.js ou CRA (SSR é um bônus);
 
 Enviar o link do repositório para dayan@edusynch.com.
-
 
 ## Bônus
 
