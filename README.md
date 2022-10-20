@@ -15,9 +15,10 @@
 
 Este desafio consiste no desenvolvimento da interface de uma landing page e uma dashboard. Os mockups estão no figma:
 
-- Projeto: https://www.figma.com/file/2OU7V5IgEWYbEqCKvUE36j/LP---Teste-Front-End
-- Landing Page: https://www.figma.com/file/2OU7V5IgEWYbEqCKvUE36j/LP---Teste-Front-End?node-id=1%3A2
-- Dashboard: https://www.figma.com/file/2OU7V5IgEWYbEqCKvUE36j/LP---Teste-Front-End?node-id=50%3A848
+- Projeto: https://www.figma.com/file/B8scopEM014WR4Oh58UaDb/%5BEduSynch%5D--Front-End-Test
+- Landing Page: https://www.figma.com/file/B8scopEM014WR4Oh58UaDb/%5BEduSynch%5D--Front-End-Test?node-id=1%3A1741
+- Dashboard: https://www.figma.com/file/B8scopEM014WR4Oh58UaDb/%5BEduSynch%5D--Front-End-Test?node-id=1%3A2555
+- Protótipo: https://www.figma.com/proto/B8scopEM014WR4Oh58UaDb/%5BEduSynch%5D--Front-End-Test?node-id=1%3A9253&scaling=min-zoom&page-id=1%3A9229&starting-point-node-id=1%3A9253&hide-ui=1
 
 Deverá ser utilizado ReactJS (opcional a utilização de algum framework como NextJS) para desenvolvimento da landing e dashboard;
 
