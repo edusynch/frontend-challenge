@@ -35,7 +35,7 @@ Você pode visualizar o layout do projeto através desse <a href="https://www.fi
 - Os dados das crypto moedas na seção de "Top Cryptos" deverão ser carregados da API Rest (https://www.coinapi.io/)
   - Ação do botão "View more +" deverá mostrar lista completa (10 itens);
   - Após expandir a lista, o texto "View more +" deverá ser substituido por "View less";
-- O formulário de Newsletter no rodapé da página deverá ter interação a API Rest (https://www.coinapi.io/)
+- O formulário de Newsletter no rodapé da página deverá ter interação a API Rest
   - Implementar ação de "Loading" desabilitando o botão de "Subscribe" até o retorno do servidor;
   - Enquanto a ação de subscribe estiver sendo processada o usuário não poderá alterar o campo e-mail (desabilitar o preenchimento do input de texto);
   - Após retorno de sucesso do servidor, o campo e-mail deve ser limpo e o botão "Subscribe" deve estar disponível novamente;
@@ -52,7 +52,7 @@ Você pode visualizar o layout do projeto através desse <a href="https://www.fi
 
 #### Dashboard:
 
-- O topo da página deverá ter as informações do usuário (Avatar e Nome, esses dados deverão ser consumidos da API Rest - https://www.coinapi.io/);
+- O topo da página deverá ter as informações do usuário (Avatar e Nome, esses dados deverão ser consumidos da API Rest
 - O topo também deverá ter um dropdown com uma única opção (Logout);
 - Menu lateral com tooltip deverá ter as funções de expandir e minimizar;
 - Conteúdo deve ser exibido com os dados consumidos da API;
