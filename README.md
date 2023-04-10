@@ -55,7 +55,7 @@ Você pode visualizar o layout do projeto através desse <a href="https://www.fi
 - O topo da página deverá ter as informações do usuário (Avatar e Nome, esses dados deverão ser consumidos da API Rest)
 - O topo também deverá ter um dropdown com uma única opção (Logout);
 - Menu lateral com tooltip deverá ter as funções de expandir e minimizar;
-- Conteúdo deve ser exibido com os dados consumidos da API (https://www.coinapi.io/);
+- Conteúdo deve ser exibido com os dados consumidos da API;
 - O valor exibido no bloco "Balance in US$" deverá ser formatado;
 - O bloco "Daily Variation" deverá mostrar um gráfico com dados consumidos da API;
 - O bloco  "My Wallet" deverá mostrar a lista com dados consumidos da API;
