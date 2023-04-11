@@ -22,6 +22,8 @@ Este desafio consiste no desenvolvimento da interface de uma landing page e uma 
 
 Deverá ser utilizado ReactJS (opcional a utilização de algum framework como NextJS) para desenvolvimento da landing e dashboard;
 
+OBSERVAÇÃO: Para interações com API, sugerimos o uso de uma fake API, como o json-server.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através desse <a href="https://www.figma.com/file/2OU7V5IgEWYbEqCKvUE36j/LP---Teste-Front-End">link</a>. Vale lembrar que você precisa ter uma conta no Figma para acessá-lo. (O cadastro é gratuito)
@@ -30,9 +32,9 @@ Você pode visualizar o layout do projeto através desse <a href="https://www.fi
 
 #### Landing page:
 
-- Os dados das crypto moedas no topo da página deverão ser carregados da API Rest (https://www.coinapi.io/)
+- Os dados das crypto moedas no topo da página deverão ser carregados da API Rest (SUGESTÃO: https://www.coinapi.io/)
 - O Banner do topo deverá ser em forma de carrossel (Mais detalhes no figma)
-- Os dados das crypto moedas na seção de "Top Cryptos" deverão ser carregados da API Rest (https://www.coinapi.io/)
+- Os dados das crypto moedas na seção de "Top Cryptos" deverão ser carregados da API Rest (SUGESTÃO: https://www.coinapi.io/)
   - Ação do botão "View more +" deverá mostrar lista completa (10 itens);
   - Após expandir a lista, o texto "View more +" deverá ser substituido por "View less";
 - O formulário de Newsletter no rodapé da página deverá ter interação a API Rest
